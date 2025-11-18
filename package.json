@@ -1,0 +1,19 @@
+{
+  "name": "simple-todo-api",
+  "version": "0.1.0",
+  "description": "A minimal TODO REST API using Node.js and Express with simple file persistence.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Christian-Akor",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

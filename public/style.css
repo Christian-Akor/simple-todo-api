@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; background:#f7f7f7; color:#222; }
+.app { max-width:640px; margin:40px auto; background:#fff; padding:20px; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,0.06); }
+#todos { list-style:none; padding:0; }
+#todos li { display:flex; gap:10px; align-items:center; padding:8px 0; border-bottom:1px solid #eee; }
+#todos li.done span { text-decoration:line-through; color:#888; }
+button { cursor:pointer; }
