@@ -40,7 +40,8 @@ npm start
 
 - User authentication (register, login, OTP verification)
 - Wallet management (fund, transfer, withdraw)
-- Transaction history
+- Transaction history with pagination
 - Bill payments (airtime & bills)
 - Admin dashboard
 - Responsive design with Tailwind CSS
+- Real-time notifications with react-hot-toast
